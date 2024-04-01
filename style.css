@@ -74,7 +74,7 @@ img {
     padding: 0.5em;
     width: 0.5em;
     border-radius: 1em;
-    margin: 0.5em;
+    margin: 0.2em;
     animation: scale1 5s alternate infinite;
 }
 
@@ -85,7 +85,7 @@ img {
     padding: 0.5em;
     width: 0.5em;
     border-radius: 1em;
-    margin: 0.5em;
+    margin: 0.2em;
     animation: scale2 5s alternate infinite;
 }
 
@@ -96,7 +96,7 @@ img {
     padding: 0.5em;
     width: 0.5em;
     border-radius: 1em;
-    margin: 0.5em;
+    margin: 0.2em;
     animation: scale3 5s alternate infinite;
 }
 
@@ -107,7 +107,7 @@ img {
     padding: 0.5em;
     width: 0.5em;
     border-radius: 1em;
-    margin: 0.5em;
+    margin: 0.2em;
     animation: scale4 5s alternate infinite;
 }
 
@@ -118,7 +118,7 @@ img {
     padding: 0.5em;
     width: 0.5em;
     border-radius: 1em;
-    margin: 0.5em;
+    margin: 0.2em;
     animation: scale5 5s alternate infinite;
 }
 
@@ -129,7 +129,7 @@ img {
     padding: 0.5em;
     width: 0.5em;
     border-radius: 1em;
-    margin: 0.5em;
+    margin: 0.2em;
     animation: scale6 5s alternate infinite;
 }
 
@@ -140,7 +140,7 @@ img {
     padding: 0.5em;
     width: 0.5em;
     border-radius: 1em;
-    margin: 0.5em;
+    margin: 0.2em;
     animation: scale7 5s alternate infinite;
 }
 
@@ -151,7 +151,7 @@ img {
     padding: 0.5em;
     width: 0.5em;
     border-radius: 1em;
-    margin: 0.5em;
+    margin: 0.2em;
     animation: scale8 5s alternate infinite;
 }
 
@@ -162,16 +162,16 @@ img {
     padding: 0.5em;
     width: 0.5em;
     border-radius: 1em;
-    margin: 0.5em;
+    margin: 0.2em;
     animation: scale9 5s alternate infinite;
 }
 
 .bubble {
     height: 1em;
-    width: 23em;
+    width: 19em;
     background: transparent;
     border: 1px solid red;
-    margin: 0.5em;
+    margin: 0.2em;
     z-index: 1;
     position: absolute;
 }
